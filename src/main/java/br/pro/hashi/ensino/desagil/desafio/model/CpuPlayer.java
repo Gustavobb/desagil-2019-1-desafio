@@ -80,6 +80,7 @@ public class CpuPlayer extends Player {
                     col = node.getCol();
                 }
             }
+
         }
     }
 

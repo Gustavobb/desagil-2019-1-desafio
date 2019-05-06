@@ -11,5 +11,8 @@ public abstract class Player extends Element {
     protected void move(int rowShift, int colShift) {
         row += rowShift;
         col += colShift;
+
+
+
     }
 }
